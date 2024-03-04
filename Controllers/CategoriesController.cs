@@ -10,7 +10,7 @@ using Web16702401.Models;
 
 namespace Web16702401.Controllers
 {
-    [Authorize(Roles = "Admin")]
+    [Authorize(Roles = "Admin, Employer")]
     public class CategoriesController : Controller
     {
         private readonly DB1670Context _context;

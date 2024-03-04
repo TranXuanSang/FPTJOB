@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using System.Net;
 using Web16702401.Models;
@@ -7,6 +8,7 @@ namespace Web16702401.Controllers
 {
     public class HomeController : Controller
     {
+
         private readonly ILogger<HomeController> _logger;
 
         public HomeController(ILogger<HomeController> logger)
@@ -16,7 +18,15 @@ namespace Web16702401.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            if (!User.Identity.IsAuthenticated)
+            {
+                return Redirect("Identity/Account/Login");
+            }
+            else
+            {
+                // Người dùng đã đăng nhập, xử lý logic ở đây
+                return View();
+            }
         }
 
         public IActionResult Privacy()
