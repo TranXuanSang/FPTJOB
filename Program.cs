@@ -1,18 +1,22 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity;
-using FPTJOB.Models;
+using Web16702401.Models;
 
 var builder = WebApplication.CreateBuilder(args);
+///var connectionString = builder.Configuration.GetConnectionString("DB1670ContextConnection") ?? throw new InvalidOperationException("Connection string 'DB1670ContextConnection' not found.");
+//var connectionString = builder.Configuration.GetConnectionString("DB1670ContextConnection") ?? throw new InvalidOperationException("Connection string 'DB1670ContextConnection' not found.");
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
-builder.Services.AddDbContext<FPTJOB.Models.DBMyContext>(options =>
+builder.Services.AddDbContext<Web16702401.Models.DB1670Context>(options =>
 {
     options.UseSqlServer("Name=MyConn");
 });
 
-builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true).AddEntityFrameworkStores<DBMyContext>();
+builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
+     .AddRoles<IdentityRole>()
+    .AddEntityFrameworkStores<DB1670Context>();
 
 var app = builder.Build();
 
@@ -29,6 +33,7 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapRazorPages();

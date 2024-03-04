@@ -5,15 +5,15 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using FPTJOB.Models;
+using Web16702401.Models;
 
-namespace FPTJOB.Controllers
+namespace Web16702401.Controllers
 {
     public class JobsController : Controller
     {
-        private readonly DBMyContext _context;
+        private readonly DB1670Context _context;
 
-        public JobsController(DBMyContext context)
+        public JobsController(DB1670Context context)
         {
             _context = context;
         }
@@ -21,9 +21,19 @@ namespace FPTJOB.Controllers
         // GET: Jobs
         public async Task<IActionResult> Index()
         {
-            var dBMyContext = _context.Jobs.Include(j => j.Category);
-            return View(await dBMyContext.ToListAsync());
+            var dB1670Context = _context.Jobs.Include(j => j.ObjCategory);
+            return View(await dB1670Context.ToListAsync());
         }
+
+        public async Task<IActionResult> ListJob()
+        {
+            var dB1670Context = _context.Jobs.Include(j => j.ObjCategory).Where(j=>j.Deadline >= DateTime.Now);
+            return View(await dB1670Context.ToListAsync());
+        }
+
+
+
+
 
         // GET: Jobs/Details/5
         public async Task<IActionResult> Details(int? id)
@@ -34,20 +44,32 @@ namespace FPTJOB.Controllers
             }
 
             var job = await _context.Jobs
-                .Include(j => j.Category)
+                .Include(j => j.ObjCategory)
                 .FirstOrDefaultAsync(m => m.Id == id);
             if (job == null)
             {
                 return NotFound();
             }
 
+            var proJob = _context.ProJob.Include(p => p.ObjProfile).Where(p => p.JobId == id);
+            var profile = _context.Profile.Where(p => p.UserID == User.Identity.Name).FirstOrDefault();
+            if (proJob.Where(p => p.ProfileId == profile.Id).Count()>0 && proJob.Count()>0)
+            {
+                ViewBag.Apply = true;
+            }
+            else
+            {
+                ViewBag.Apply = false;
+            }
+
             return View(job);
+
         }
 
         // GET: Jobs/Create
         public IActionResult Create()
         {
-            ViewData["CategoryId"] = new SelectList(_context.Categories, "ID", "Name");
+            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Name");
             return View();
         }
 
@@ -56,7 +78,7 @@ namespace FPTJOB.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Name,Description,Location,Industry,Requirement,Deadline,CategoryId")] Job job)
+        public async Task<IActionResult> Create([Bind("Id,Title,Description,Qualification,Location,Industry,Deadline,CategoryId")] Job job)
         {
             if (ModelState.IsValid)
             {
@@ -64,7 +86,7 @@ namespace FPTJOB.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["CategoryId"] = new SelectList(_context.Categories, "ID", "ID", job.CategoryId);
+            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Id", job.CategoryId);
             return View(job);
         }
 
@@ -81,7 +103,7 @@ namespace FPTJOB.Controllers
             {
                 return NotFound();
             }
-            ViewData["CategoryId"] = new SelectList(_context.Categories, "ID", "ID", job.CategoryId);
+            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Id", job.CategoryId);
             return View(job);
         }
 
@@ -90,7 +112,7 @@ namespace FPTJOB.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Name,Description,Location,Industry,Requirement,Deadline,CategoryId")] Job job)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Title,Description,Qualification,Location,Industry,Deadline,CategoryId")] Job job)
         {
             if (id != job.Id)
             {
@@ -117,7 +139,7 @@ namespace FPTJOB.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["CategoryId"] = new SelectList(_context.Categories, "ID", "ID", job.CategoryId);
+            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Id", job.CategoryId);
             return View(job);
         }
 
@@ -130,7 +152,7 @@ namespace FPTJOB.Controllers
             }
 
             var job = await _context.Jobs
-                .Include(j => j.Category)
+                .Include(j => j.ObjCategory)
                 .FirstOrDefaultAsync(m => m.Id == id);
             if (job == null)
             {
@@ -147,7 +169,7 @@ namespace FPTJOB.Controllers
         {
             if (_context.Jobs == null)
             {
-                return Problem("Entity set 'DBMyContext.Jobs'  is null.");
+                return Problem("Entity set 'DB1670Context.Jobs'  is null.");
             }
             var job = await _context.Jobs.FindAsync(id);
             if (job != null)

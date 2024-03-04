@@ -1,8 +1,9 @@
-﻿using FPTJOB.Models;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using System.Net;
+using Web16702401.Models;
 
-namespace FPTJOB.Controllers
+namespace Web16702401.Controllers
 {
     public class HomeController : Controller
     {
@@ -28,5 +29,6 @@ namespace FPTJOB.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
     }
 }

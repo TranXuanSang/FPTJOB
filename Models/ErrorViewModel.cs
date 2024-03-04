@@ -1,4 +1,4 @@
-namespace FPTJOB.Models
+namespace Web16702401.Models
 {
     public class ErrorViewModel
     {

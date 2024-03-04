@@ -1,14 +1,21 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
-namespace FPTJOB.Models
+namespace Web16702401.Models
 {
     public class Category
     {
         [Key]
-        public int ID { get; set; }
+        public int Id { get; set; }
+
         public string Name { get; set; }
+
         public bool Status { get; set; }
 
-        public virtual ICollection<Job>? Jobs { get;}
+        [InverseProperty("ObjCategory")]
+        public virtual ICollection<Job>? Jobs { get; set; }
+
+
+
     }
 }

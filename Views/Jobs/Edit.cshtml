@@ -1,4 +1,4 @@
-﻿@model FPTJOB.Models.Job
+﻿@model Web16702401.Models.Job
 
 @{
     ViewData["Title"] = "Edit";
@@ -15,14 +15,19 @@
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <input type="hidden" asp-for="Id" />
             <div class="form-group">
-                <label asp-for="Name" class="control-label"></label>
-                <input asp-for="Name" class="form-control" />
-                <span asp-validation-for="Name" class="text-danger"></span>
+                <label asp-for="Title" class="control-label"></label>
+                <input asp-for="Title" class="form-control" />
+                <span asp-validation-for="Title" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Description" class="control-label"></label>
                 <input asp-for="Description" class="form-control" />
                 <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Qualification" class="control-label"></label>
+                <input asp-for="Qualification" class="form-control" />
+                <span asp-validation-for="Qualification" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Location" class="control-label"></label>
@@ -33,11 +38,6 @@
                 <label asp-for="Industry" class="control-label"></label>
                 <input asp-for="Industry" class="form-control" />
                 <span asp-validation-for="Industry" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Requirement" class="control-label"></label>
-                <input asp-for="Requirement" class="form-control" />
-                <span asp-validation-for="Requirement" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Deadline" class="control-label"></label>
@@ -60,6 +60,3 @@
     <a asp-action="Index">Back to List</a>
 </div>
 
-@section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
-}

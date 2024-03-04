@@ -19,7 +19,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.WebUtilities;
 using Microsoft.Extensions.Logging;
 
-namespace FPTJOB.Areas.Identity.Pages.Account
+namespace Web16702401.Areas.Identity.Pages.Account
 {
     public class RegisterModel : PageModel
     {

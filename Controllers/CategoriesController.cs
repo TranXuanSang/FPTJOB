@@ -2,28 +2,31 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using FPTJOB.Models;
+using Web16702401.Models;
 
-namespace FPTJOB.Controllers
+namespace Web16702401.Controllers
 {
+    [Authorize(Roles = "Admin")]
     public class CategoriesController : Controller
     {
-        private readonly DBMyContext _context;
+        private readonly DB1670Context _context;
 
-        public CategoriesController(DBMyContext context)
+        public CategoriesController(DB1670Context context)
         {
             _context = context;
         }
 
         // GET: Categories
+        
         public async Task<IActionResult> Index()
         {
               return _context.Categories != null ? 
                           View(await _context.Categories.ToListAsync()) :
-                          Problem("Entity set 'DBMyContext.Categories'  is null.");
+                          Problem("Entity set 'DB1670Context.Categories'  is null.");
         }
 
         // GET: Categories/Details/5
@@ -35,7 +38,7 @@ namespace FPTJOB.Controllers
             }
 
             var category = await _context.Categories
-                .FirstOrDefaultAsync(m => m.ID == id);
+                .FirstOrDefaultAsync(m => m.Id == id);
             if (category == null)
             {
                 return NotFound();
@@ -55,7 +58,7 @@ namespace FPTJOB.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("ID,Name,Status")] Category category)
+        public async Task<IActionResult> Create([Bind("Id,Name,Status")] Category category)
         {
             if (ModelState.IsValid)
             {
@@ -87,9 +90,9 @@ namespace FPTJOB.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("ID,Name,Status")] Category category)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Name,Status")] Category category)
         {
-            if (id != category.ID)
+            if (id != category.Id)
             {
                 return NotFound();
             }
@@ -103,7 +106,7 @@ namespace FPTJOB.Controllers
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!CategoryExists(category.ID))
+                    if (!CategoryExists(category.Id))
                     {
                         return NotFound();
                     }
@@ -120,19 +123,35 @@ namespace FPTJOB.Controllers
         // GET: Categories/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
-            if (id == null || _context.Categories == null)
+            if (_context.Categories == null)
             {
-                return NotFound();
+                return Problem("Entity set 'DB1670Context.Categories'  is null.");
+            }
+            var category = await _context.Categories.FindAsync(id);
+            if (category != null)
+            {
+                _context.Categories.Remove(category);
             }
 
-            var category = await _context.Categories
-                .FirstOrDefaultAsync(m => m.ID == id);
-            if (category == null)
+            await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
+        }
+
+        public async Task<IActionResult> Approved(int? id)
+        {
+            if (_context.Categories == null)
             {
-                return NotFound();
+                return Problem("Entity set 'DB1670Context.Categories'  is null.");
+            }
+            var category = await _context.Categories.FindAsync(id);
+            if (category != null)
+            {
+                category.Status = true;
+                _context.Categories.Update(category);
             }
 
-            return View(category);
+            await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
         }
 
         // POST: Categories/Delete/5
@@ -142,7 +161,7 @@ namespace FPTJOB.Controllers
         {
             if (_context.Categories == null)
             {
-                return Problem("Entity set 'DBMyContext.Categories'  is null.");
+                return Problem("Entity set 'DB1670Context.Categories'  is null.");
             }
             var category = await _context.Categories.FindAsync(id);
             if (category != null)
@@ -156,7 +175,7 @@ namespace FPTJOB.Controllers
 
         private bool CategoryExists(int id)
         {
-          return (_context.Categories?.Any(e => e.ID == id)).GetValueOrDefault();
+          return (_context.Categories?.Any(e => e.Id == id)).GetValueOrDefault();
         }
     }
 }
