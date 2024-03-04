@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "31jLUimHeivWYtGZQFUHDBBT2wzqaYHDlJJ9RDEWjq0=",
+  "Hash": "UUXHHoRzgomQx5cCikAXIzmDHBct40YhIj7fXj66Eqw=",
   "Source": "Web16702401",
   "BasePath": "_content/Web16702401",
   "Mode": "Default",
@@ -2293,6 +2293,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\sang2\\Desktop\\git\\wwwroot\\images\\backround.jpeg",
+      "SourceId": "Web16702401",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sang2\\Desktop\\git\\wwwroot\\",
+      "BasePath": "_content/Web16702401",
+      "RelativePath": "images/backround.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\backround.jpeg"
     },
     {
       "Identity": "C:\\Users\\sang2\\Desktop\\git\\wwwroot\\js\\site.js",

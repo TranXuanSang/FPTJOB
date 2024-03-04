@@ -293,6 +293,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\sang2\\Desktop\\git\\wwwroot\\images\\backround.jpeg",
+      "PackagePath": "staticwebassets\\images\\backround.jpeg"
+    },
+    {
       "Id": "C:\\Users\\sang2\\Desktop\\git\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
