@@ -1445,7 +1445,6 @@ C:\Users\tuann\OneDrive\Desktop\FPTJob\obj\Debug\net7.0\staticwebassets\msbuild.
 C:\Users\tuann\OneDrive\Desktop\FPTJob\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Web16702401.props
 C:\Users\tuann\OneDrive\Desktop\FPTJob\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Web16702401.props
 C:\Users\tuann\OneDrive\Desktop\FPTJob\obj\Debug\net7.0\staticwebassets.pack.json
-C:\Users\tuann\OneDrive\Desktop\FPTJob\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout - Copy.cshtml.rz.scp.css
 C:\Users\tuann\OneDrive\Desktop\FPTJob\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\tuann\OneDrive\Desktop\FPTJob\obj\Debug\net7.0\scopedcss\bundle\Web16702401.styles.css
 C:\Users\tuann\OneDrive\Desktop\FPTJob\obj\Debug\net7.0\scopedcss\projectbundle\Web16702401.bundle.scp.css
@@ -1455,3 +1454,4 @@ C:\Users\tuann\OneDrive\Desktop\FPTJob\obj\Debug\net7.0\refint\Web16702401.dll
 C:\Users\tuann\OneDrive\Desktop\FPTJob\obj\Debug\net7.0\Web16702401.pdb
 C:\Users\tuann\OneDrive\Desktop\FPTJob\obj\Debug\net7.0\Web16702401.genruntimeconfig.cache
 C:\Users\tuann\OneDrive\Desktop\FPTJob\obj\Debug\net7.0\ref\Web16702401.dll
+C:\Users\tuann\OneDrive\Desktop\FPTJob\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout - Copy.cshtml.rz.scp.css

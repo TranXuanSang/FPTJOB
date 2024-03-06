@@ -1,121 +1,145 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\",
+  "WorkspaceRootPath": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjobcode\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjobcode\\views\\shared\\_layout - copy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:views\\shared\\_layout - copy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjobcode\\views\\shared\\_layout - copy.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:views\\shared\\_layout - copy.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjobcode\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjobcode\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjob\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjobcode\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjob\\views\\shared\\_layout - copy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:views\\shared\\_layout - copy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjobcode\\areas\\identity\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:areas\\identity\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjob\\views\\jobs\\listjob.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:views\\jobs\\listjob.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjobcode\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjob\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjobcode\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjobcode\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjobcode\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjobcode\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjobcode\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjobcode\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjobcode\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjobcode\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjobcode\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjobcode\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjobcode\\wwwroot\\dist\\js\\demo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:wwwroot\\dist\\js\\demo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjobcode\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjobcode\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjobcode\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjobcode\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjobcode\\views\\admin\\createrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:views\\admin\\createrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjobcode\\views\\jobs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjob\\views\\jobs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:views\\jobs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjobcode\\views\\profiles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjob\\views\\projobs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:views\\projobs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjob\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjob\\controllers\\projobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:controllers\\projobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjob\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjob\\views\\profiles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:views\\profiles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjob\\views\\shared\\_layout - copy.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:views\\shared\\_layout - copy.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjob\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjob\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjob\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjob\\areas\\identity\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:areas\\identity\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjob\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjob\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjob\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjob\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjob\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjob\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjob\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjob\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjob\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjob\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjob\\wwwroot\\dist\\js\\demo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:wwwroot\\dist\\js\\demo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjob\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjob\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjob\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjob\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjob\\views\\admin\\createrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:views\\admin\\createrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjob\\views\\profiles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:views\\profiles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjobcode\\views\\jobs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjob\\views\\jobs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:views\\jobs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjobcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjob\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjobcode\\migrations\\20240304161524_sdarw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|c:\\users\\tuann\\onedrive\\desktop\\fptjob\\migrations\\20240304161524_sdarw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A6C06FE-4636-444A-AB4B-52C11B5EBF43}|Web16702401.csproj|solutionrelative:migrations\\20240304161524_sdarw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -126,7 +150,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 205,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -146,11 +170,101 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListJob.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Views\\Jobs\\ListJob.cshtml",
+              "RelativeDocumentMoniker": "Views\\Jobs\\ListJob.cshtml",
+              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Views\\Jobs\\ListJob.cshtml",
+              "RelativeToolTip": "Views\\Jobs\\ListJob.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T08:40:19.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProJobsController.cs",
+              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Controllers\\ProJobsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProJobsController.cs",
+              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Controllers\\ProJobsController.cs",
+              "RelativeToolTip": "Controllers\\ProJobsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T08:39:18.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-06T08:34:51.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Views\\Profiles\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Profiles\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Views\\Profiles\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Profiles\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T08:13:15.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Views\\ProJobs\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\ProJobs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Views\\ProJobs\\Index.cshtml",
+              "RelativeToolTip": "Views\\ProJobs\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T07:57:41.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAOEAAAAAAAAAAAAAAPcAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T16:05:08.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "demo.js",
+              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\wwwroot\\dist\\js\\demo.js",
+              "RelativeDocumentMoniker": "wwwroot\\dist\\js\\demo.js",
+              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\wwwroot\\dist\\js\\demo.js",
+              "RelativeToolTip": "wwwroot\\dist\\js\\demo.js",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-04T15:53:34.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "JobsController.cs",
-              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Controllers\\JobsController.cs",
+              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Controllers\\JobsController.cs",
               "RelativeDocumentMoniker": "Controllers\\JobsController.cs",
-              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Controllers\\JobsController.cs",
+              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Controllers\\JobsController.cs",
               "RelativeToolTip": "Controllers\\JobsController.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -159,97 +273,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-04T16:37:32.496Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-04T16:31:00.97Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-04T16:27:49.331Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAAGgAAAAaAAAA",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Views\\Jobs\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Jobs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Views\\Jobs\\Index.cshtml",
+              "RelativeToolTip": "Views\\Jobs\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-04T16:05:08.973Z",
+              "WhenOpened": "2024-03-04T15:53:34.511Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout - Copy.cshtml",
-              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Views\\Shared\\_Layout - Copy.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout - Copy.cshtml",
-              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Views\\Shared\\_Layout - Copy.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout - Copy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-04T15:53:34.406Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "demo.js",
-              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\wwwroot\\dist\\js\\demo.js",
-              "RelativeDocumentMoniker": "wwwroot\\dist\\js\\demo.js",
-              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\wwwroot\\dist\\js\\demo.js",
-              "RelativeToolTip": "wwwroot\\dist\\js\\demo.js",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-03-04T15:53:34.442Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBUAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T15:53:34.445Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Views\\Shared\\_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -258,24 +299,115 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "_Layout - Copy.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Views\\Shared\\_Layout - Copy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout - Copy.cshtml",
+              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Views\\Shared\\_Layout - Copy.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout - Copy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T15:53:34.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T16:27:49.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-04T16:31:00.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T15:53:34.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T15:53:34.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "_Layout - Copy.cshtml.css",
-              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Views\\Shared\\_Layout - Copy.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Views\\Shared\\_Layout - Copy.cshtml.css",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout - Copy.cshtml.css",
-              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Views\\Shared\\_Layout - Copy.cshtml.css",
+              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Views\\Shared\\_Layout - Copy.cshtml.css",
               "RelativeToolTip": "Views\\Shared\\_Layout - Copy.cshtml.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-03-04T16:43:22.914Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T16:37:32.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T07:29:38.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
               "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -283,11 +415,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Areas\\Identity\\Pages\\Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Areas\\Identity\\Pages\\Error.cshtml",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Error.cshtml",
-              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Areas\\Identity\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Areas\\Identity\\Pages\\Error.cshtml",
               "RelativeToolTip": "Areas\\Identity\\Pages\\Error.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -295,11 +427,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -307,11 +439,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -319,11 +451,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "ForgotPassword.cshtml",
-              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
-              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -331,11 +463,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 34,
               "Title": "20240304161524_sdarw.cs",
-              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Migrations\\20240304161524_sdarw.cs",
+              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Migrations\\20240304161524_sdarw.cs",
               "RelativeDocumentMoniker": "Migrations\\20240304161524_sdarw.cs",
-              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Migrations\\20240304161524_sdarw.cs",
+              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Migrations\\20240304161524_sdarw.cs",
               "RelativeToolTip": "Migrations\\20240304161524_sdarw.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -343,11 +475,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\appsettings.json",
+              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -355,11 +487,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Controllers\\CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Controllers\\CategoriesController.cs",
               "RelativeToolTip": "Controllers\\CategoriesController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -367,23 +499,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-04T15:53:34.465Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Views\\Categories\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Views\\Categories\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Categories\\Details.cshtml",
-              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Views\\Categories\\Details.cshtml",
+              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Views\\Categories\\Details.cshtml",
               "RelativeToolTip": "Views\\Categories\\Details.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -391,11 +511,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 29,
               "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Controllers\\AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Controllers\\AdminController.cs",
               "RelativeToolTip": "Controllers\\AdminController.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAA9wA4AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -403,11 +523,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 26,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Controllers\\AccountController.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -415,11 +535,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 33,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Program.cs",
+              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -427,11 +547,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 27,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Views\\Categories\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Views\\Categories\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Categories\\Create.cshtml",
-              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Views\\Categories\\Create.cshtml",
               "RelativeToolTip": "Views\\Categories\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -439,11 +559,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 28,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Views\\Categories\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Views\\Categories\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Categories\\Index.cshtml",
-              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Views\\Categories\\Index.cshtml",
               "RelativeToolTip": "Views\\Categories\\Index.cshtml",
               "ViewState": "AQIAADwAAAAAAAAAAAAAAE0AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -451,11 +571,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 30,
               "Title": "CreateRole.cshtml",
-              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Views\\Admin\\CreateRole.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Views\\Admin\\CreateRole.cshtml",
               "RelativeDocumentMoniker": "Views\\Admin\\CreateRole.cshtml",
-              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Views\\Admin\\CreateRole.cshtml",
+              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Views\\Admin\\CreateRole.cshtml",
               "RelativeToolTip": "Views\\Admin\\CreateRole.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -463,23 +583,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 31,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Views\\Jobs\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Jobs\\Index.cshtml",
-              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Views\\Jobs\\Index.cshtml",
-              "RelativeToolTip": "Views\\Jobs\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-04T15:53:34.511Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Views\\Profiles\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Views\\Profiles\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Profiles\\Index.cshtml",
-              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Views\\Profiles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Views\\Profiles\\Index.cshtml",
               "RelativeToolTip": "Views\\Profiles\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -487,11 +595,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 32,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Views\\Jobs\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Views\\Jobs\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Jobs\\Details.cshtml",
-              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Views\\Jobs\\Details.cshtml",
+              "ToolTip": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Views\\Jobs\\Details.cshtml",
               "RelativeToolTip": "Views\\Jobs\\Details.cshtml",
               "ViewState": "AQIAACcAAABAMzMzMzPzvz4AAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",

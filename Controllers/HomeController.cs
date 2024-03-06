@@ -23,8 +23,7 @@ namespace Web16702401.Controllers
                 return Redirect("Identity/Account/Login");
             }
             else
-            {
-                // Người dùng đã đăng nhập, xử lý logic ở đây
+            {              
                 return View();
             }
         }

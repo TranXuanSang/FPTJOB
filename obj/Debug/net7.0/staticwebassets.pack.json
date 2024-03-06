@@ -61,12 +61,40 @@
       "PackagePath": "staticwebassets\\assets\\img\\portfolio\\thumbnails\\6.jpg"
     },
     {
+      "Id": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\wwwroot\\css\\bootstrap\\_media.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\_media.css"
+    },
+    {
+      "Id": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\wwwroot\\css\\bootstrap\\mixins\\_border-radius.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\mixins\\_border-radius.css"
+    },
+    {
+      "Id": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\wwwroot\\css\\bootstrap\\mixins\\_screen-reader.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\mixins\\_screen-reader.css"
+    },
+    {
+      "Id": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\wwwroot\\css\\bootstrap\\mixins\\_visibility.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\mixins\\_visibility.css"
+    },
+    {
+      "Id": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\wwwroot\\css\\bootstrap\\utilities\\_stretched-link.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\utilities\\_stretched-link.css"
+    },
+    {
       "Id": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\wwwroot\\css\\main.css",
       "PackagePath": "staticwebassets\\css\\main.css"
     },
     {
       "Id": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
       "Id": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\wwwroot\\css\\styles.css",
@@ -681,8 +709,20 @@
       "PackagePath": "staticwebassets\\images\\img-01.png"
     },
     {
+      "Id": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
       "Id": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\wwwroot\\js\\main.js",
       "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\wwwroot\\js\\popper.js",
+      "PackagePath": "staticwebassets\\js\\popper.js"
     },
     {
       "Id": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\wwwroot\\js\\scripts.js",
@@ -8871,6 +8911,10 @@
     {
       "Id": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\wwwroot\\uploads\\Screenshot 2023-11-28 154043_d234.png",
       "PackagePath": "staticwebassets\\uploads\\Screenshot 2023-11-28 154043_d234.png"
+    },
+    {
+      "Id": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\wwwroot\\uploads\\avataruser_d346.png",
+      "PackagePath": "staticwebassets\\uploads\\avataruser_d346.png"
     },
     {
       "Id": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\wwwroot\\vendor\\animate\\animate.css",
