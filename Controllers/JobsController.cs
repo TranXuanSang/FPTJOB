@@ -18,6 +18,7 @@ namespace Web16702401.Controllers
             _context = context;
         }
 
+       
         // GET: Jobs
         public async Task<IActionResult> Index()
         {

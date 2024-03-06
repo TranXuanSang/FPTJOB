@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MKyXYT3GQeBL/mY7CVByrssYbNdMvVFHQm0zuml/6Ty+Bw1eYpueJUfecQXEFkaj1cwArZnlQcuOiOKb1SlaTA==",
+  "dgSpecHash": "wiRSm2GKh1sGIRoH65Kvj7DQWIUvWWGmIoHAF9NS81Gtnh8/3XEb5Wlf53XZk/GW0geyUMuXdVVhM9Jo+Agl0Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Web16702401.csproj",
+  "projectFilePath": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Web16702401.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tuann\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\tuann\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

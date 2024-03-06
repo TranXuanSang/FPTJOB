@@ -12020,11 +12020,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Web16702401.csproj",
+      "projectUniqueName": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Web16702401.csproj",
       "projectName": "Web16702401",
-      "projectPath": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\Web16702401.csproj",
+      "projectPath": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Web16702401.csproj",
       "packagesPath": "C:\\Users\\tuann\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTjobcode\\obj\\",
+      "outputPath": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
