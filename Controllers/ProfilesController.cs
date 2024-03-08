@@ -27,7 +27,27 @@ namespace Web16702401.Controllers
         // GET: Profiles
         public async Task<IActionResult> Index()
         {
-              return _context.Profile != null ? 
+            // Lấy UserID của người dùng đăng nhập
+            string userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+
+            // Tìm profile của người dùng
+            var userProfile = await _context.Profile.FirstOrDefaultAsync(p => p.UserID == userId);
+
+            // Kiểm tra xem profile tồn tại và có FullName không
+            if (userProfile != null)
+            {
+                // Gửi FullName vào ViewData nếu có
+                ViewData["UserFullName"] = userProfile.FullName;
+            }
+            else
+            {
+                // Gửi null vào ViewData nếu không có profile
+                ViewData["UserFullName"] = null;
+            }
+
+            // Kiểm tra xem có profile hay không để gửi vào ViewData
+            ViewData["HasProfile"] = userProfile != null;
+            return _context.Profile != null ? 
                           View(await _context.Profile.ToListAsync()) :
                           Problem("Entity set 'DB1670Context.Profile'  is null.");
         }

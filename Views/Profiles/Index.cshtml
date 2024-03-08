@@ -3,13 +3,28 @@
 @{
     ViewData["Title"] = "Index";
     Layout = "~/Views/Shared/_Layout.cshtml";
+    // Lấy giá trị của biến hasProfile từ controller
+    var userFullName = ViewData["UserFullName"] as string;
+    var hasProfile = ViewData["HasProfile"] as bool?;
 }
 
 <h1>Profiles</h1>
 
 <p>
-    <a asp-action="Create" style="display: inline-block; padding: 10px 20px; background-color: #f0f7f7; color: #007bff; border: 2px solid #007bff; border-radius: 5px; text-decoration: none; transition: background-color 0.3s, color 0.3s, border-color 0.3s;">Create New</a>
+    @if (hasProfile.HasValue && hasProfile.Value)
+    {
+        // Do something when FullName is not null or empty
+        <span class="text-danger">You your profile .</span>
+    }
+    else
+    {
+        <a asp-action="Create" style="padding: 10px 20px; background-color: #f0f7f7; color: #007bff; border: 2px solid #007bff; border-radius: 5px; text-decoration: none; transition: background-color 0.3s, color 0.3s, border-color 0.3s;">Create New</a>
+    }
 </p>
+
+@* <p>
+    <a asp-action="Create" style="display: inline-block; padding: 10px 20px; background-color: #f0f7f7; color: #007bff; border: 2px solid #007bff; border-radius: 5px; text-decoration: none; transition: background-color 0.3s, color 0.3s, border-color 0.3s;">Create New</a>
+</p> *@
 <table class="table">
     <thead>
         <tr>

@@ -252,14 +252,17 @@
                                 </p>
                             </a>
                         </li>
-                        <li class="nav-item">
-                            <a href="/Jobs/Create" class="nav-link">
-                                <i class="nav-icon fas fa-columns"></i>
-                                <p>
-                                    Job Create
-                                </p>
-                            </a>
-                        </li>
+                        @if (User.IsInRole("Admin") || User.IsInRole("Employer"))
+                        {
+                            <li class="nav-item">
+                                <a href="/Jobs/Create" class="nav-link">
+                                    <i class="nav-icon fas fa-columns"></i>
+                                    <p>
+                                        Job Create
+                                    </p>
+                                </a>
+                            </li>
+                        }
                         <li class="nav-item">
                             <a href="#" class="nav-link">
                                 <i class="nav-icon far fa-envelope"></i>
