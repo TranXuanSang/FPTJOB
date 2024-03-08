@@ -1,8 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Claims;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -14,6 +16,7 @@ namespace Web16702401.Controllers
     {
         private readonly DB1670Context _context;
         private readonly IWebHostEnvironment _webHostEnvironment;
+
 
         public ProfilesController(DB1670Context context, IWebHostEnvironment webHostEnvironment)
         {
@@ -182,5 +185,6 @@ namespace Web16702401.Controllers
         {
           return (_context.Profile?.Any(e => e.Id == id)).GetValueOrDefault();
         }
+
     }
 }
