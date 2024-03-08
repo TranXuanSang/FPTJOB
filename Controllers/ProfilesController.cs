@@ -132,6 +132,7 @@ namespace Web16702401.Controllers
                 {
                     if (!ProfileExists(profile.Id))
                     {
+
                         return NotFound();
                     }
                     else

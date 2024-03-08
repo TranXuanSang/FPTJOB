@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "PF8hcWegRONpud9M/AjWRPP1dfnhSSNDos/nEQM2tvw=",
+  "Hash": "ljgmCESoV+iF0wHScWdLq43OwDBoNPADjC8hdYF1rIo=",
   "Source": "Web16702401",
   "BasePath": "_content/Web16702401",
   "Mode": "Default",
@@ -39030,6 +39030,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\Screenshot 2023-11-28 154043_d234.png"
+    },
+    {
+      "Identity": "C:\\Users\\sang2\\Source\\Repos\\TranXuanSang\\FPTJOB\\wwwroot\\uploads\\Screenshot 2024-02-04 221806_dd8e.png",
+      "SourceId": "Web16702401",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sang2\\Source\\Repos\\TranXuanSang\\FPTJOB\\wwwroot\\",
+      "BasePath": "_content/Web16702401",
+      "RelativePath": "uploads/Screenshot 2024-02-04 221806_dd8e.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Screenshot 2024-02-04 221806_dd8e.png"
     },
     {
       "Identity": "C:\\Users\\sang2\\Source\\Repos\\TranXuanSang\\FPTJOB\\wwwroot\\vendor\\animate\\animate.css",
