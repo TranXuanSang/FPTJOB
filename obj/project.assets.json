@@ -12014,24 +12014,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\tuann\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\sang2\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Web16702401.csproj",
+      "projectUniqueName": "C:\\Users\\sang2\\Source\\Repos\\TranXuanSang\\FPTJOB\\Web16702401.csproj",
       "projectName": "Web16702401",
-      "projectPath": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\Web16702401.csproj",
-      "packagesPath": "C:\\Users\\tuann\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tuann\\OneDrive\\Desktop\\FPTJob\\obj\\",
+      "projectPath": "C:\\Users\\sang2\\Source\\Repos\\TranXuanSang\\FPTJOB\\Web16702401.csproj",
+      "packagesPath": "C:\\Users\\sang2\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sang2\\Source\\Repos\\TranXuanSang\\FPTJOB\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\tuann\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\sang2\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12039,7 +12034,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -12052,11 +12046,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -12117,7 +12106,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
